@@ -1,5 +1,5 @@
 # WAPT-Web-Scanning-with-ZAProxy-Spider-Attack
-Perform Spider attack to perform web scanning. I show only the important steps required to perform the attack, so i did't explain everything.
+Perform Spider attack to perform web scanning. I show only the important steps required to perform the attack, so, I didn’t explain everything.
 # Introduction of the tool
 ZAProxy is a web application security testing tool that can help you find and fix vulnerabilities in your web applications. It is free and open source, and it is maintained by a dedicated international team of volunteers. ZAProxy can be used to scan web applications for common security issues, such as SQL injection, cross-site scripting, broken authentication, and more. It can also be used to intercept and modify web traffic, perform active and passive scanning, spider web applications, and generate reports.
 ZAProxy is designed to be easy to use, even for people who are new to security testing. It has a graphical user interface, a command-line interface, and a web interface. It also supports various automation options, such as scripting, API, and Docker . ZAProxy can be extended with add-ons that provide additional functionality, such as fuzzing, authentication, and AJAX support. <br>
