@@ -5,7 +5,7 @@ ZAProxy is a web application security testing tool that can help you find and fi
 ZAProxy is designed to be easy to use, even for people who are new to security testing. It has a graphical user interface, a command-line interface, and a web interface. It also supports various automation options, such as scripting, API, and Docker . ZAProxy can be extended with add-ons that provide additional functionality, such as fuzzing, authentication, and AJAX support. <br>
 
 The spider tool of ZAP proxy is a tool that can help you to automatically discover new resources (URLs) on a particular site. It starts with a list of URLs to visit, called the seeds, which depends on how you start the spider. Then, it follows the links on those pages and adds them to the list of URLs to visit. It also submits forms with predefined values to find more URLs. The spider tool can be configured to limit the scope, depth, and duration of the crawling process. You can use the spider tool to explore the structure and content of a web application, and to find potential vulnerabilities or hidden features. <br>
-
+<img src="zap.png" width=70% height="auto"><br><br>
 ## Web scanning with ZAProxy
 We perform the web scanning on bWAPP. <br>
 ### Goal: Scanning the site. <br>
